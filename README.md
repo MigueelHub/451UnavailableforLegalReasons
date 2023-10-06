@@ -14,5 +14,6 @@ Fue propuesto y especificado por el Grupo de Trabajo de Ingeniería de Internet 
 
  La solución generalmente depende de la acción del propietario o administrador del sitio web. Si tienes inquietudes o preguntas sobre la restricción legal, es mejor comunicarte directamente con ellos para obtener más información o buscar alternativas legales para acceder a la información que necesitas.
 
- [U+200E](https://github.com/MigueelHub/451UnavailableforLegalReasons/blob/main/451-status-code.png "Imagen")
+ ![U+200E](https://github.com/MigueelHub/451UnavailableforLegalReasons/blob/main/451-status-code.png "Imagen")
+ 
  
